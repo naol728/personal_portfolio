@@ -1,8 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import { BackgroundLines } from '../components/ui/background-lines'
 import { TypewriterEffectSmooth } from '../components/ui/typewriter-effect';
-import { BackgroundGradient } from '../components/ui/backgroundgradiant';
 const words = [
   {
     text: "Hello",

@@ -9,11 +9,13 @@ export default function App() {
   return (
     <div className='h-fit'>
       <TracingBeam>
+   
       <Home />
       <About />
       <Skill />
       <Products />
       <Footer />
+
       </TracingBeam>
 
     </div>
