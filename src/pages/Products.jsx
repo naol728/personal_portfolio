@@ -42,7 +42,7 @@ export default function Products() {
     
     }
   return (
-    <div className=' p-6'>
+    <div className=' p-6 '>
         <h2 className='text-center font-extrabold text-xl mb-5'>Products</h2>
       <div className="mockup-browser bg-base-300 border">
   <div className="mockup-browser-toolbar">

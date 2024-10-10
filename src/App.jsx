@@ -7,7 +7,7 @@ import  Products  from './pages/Products'
 import Footer from './components/Footer'
 export default function App() {
   return (
-    <div className='h-fit'>
+    <div className='h-fit' data-theme="night">
       <TracingBeam>
    
       <Home />
