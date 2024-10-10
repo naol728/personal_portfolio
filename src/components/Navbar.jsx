@@ -11,13 +11,8 @@ export default function Navbar(){
           <li><a>About</a></li>
           <li><a>Skill</a></li>
           <li>
-            <details>
-              <summary>Projects</summary>
-              <ul className="bg-base-100 rounded-t-none p-2">
-                <li><a>Project 1</a></li>
-                <li><a>Project 2</a></li>
-              </ul>
-            </details>
+            <a > products</a>
+      
           </li>
         </ul>
       </div>
